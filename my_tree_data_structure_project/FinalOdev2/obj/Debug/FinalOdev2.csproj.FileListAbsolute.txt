@@ -1,0 +1,19 @@
+C:\Users\Alperen\OneDrive\1Projelerim\VisualStudioProjects\FinalOdev2\FinalOdev2\bin\Debug\FinalOdev2.exe.config
+C:\Users\Alperen\OneDrive\1Projelerim\VisualStudioProjects\FinalOdev2\FinalOdev2\bin\Debug\FinalOdev2.exe
+C:\Users\Alperen\OneDrive\1Projelerim\VisualStudioProjects\FinalOdev2\FinalOdev2\bin\Debug\FinalOdev2.pdb
+C:\Users\Alperen\OneDrive\1Projelerim\VisualStudioProjects\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\1Projelerim\VisualStudioProjects\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.Form1.resources
+C:\Users\Alperen\OneDrive\1Projelerim\VisualStudioProjects\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\1Projelerim\VisualStudioProjects\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\1Projelerim\VisualStudioProjects\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\1Projelerim\VisualStudioProjects\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.exe
+C:\Users\Alperen\OneDrive\1Projelerim\VisualStudioProjects\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev2 saglam\FinalOdev2\FinalOdev2\bin\Debug\FinalOdev2.exe.config
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev2 saglam\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev2 saglam\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev2 saglam\FinalOdev2\FinalOdev2\bin\Debug\FinalOdev2.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev2 saglam\FinalOdev2\FinalOdev2\bin\Debug\FinalOdev2.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev2 saglam\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.csprojResolveAssemblyReference.cache
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev2 saglam\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.Form1.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev2 saglam\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev2 saglam\FinalOdev2\FinalOdev2\obj\Debug\FinalOdev2.csproj.GenerateResource.Cache
